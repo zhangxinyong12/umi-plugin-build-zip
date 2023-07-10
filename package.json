@@ -1,0 +1,31 @@
+{
+  "name": "umi-plugin-build-zip",
+  "author": "张新永 <https://github.com/zhangxinyong12>",
+  "version": "1.0.2",
+  "main": "dist/cjs/index.js",
+  "types": "dist/cjs/index.d.ts",
+  "scripts": {
+    "dev": "father dev",
+    "build": "father build"
+  },
+  "keywords": [],
+  "description": "umi-plugin-build-zip",
+  "homepage": "https://github.com/zhangxinyong12/umi-plugin-build-zip#readme",
+  "authors": {
+    "name": "张新永 <https://github.com/zhangxinyong12>",
+    "email": "13271150671@wo.cn"
+  },
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "father": "^4.1.8",
+    "typescript": "^5.0.3",
+    "umi": "^4.0.72"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
