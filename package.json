@@ -1,7 +1,7 @@
 {
   "name": "umi-plugin-build-zip",
   "author": "张新永 <https://github.com/zhangxinyong12>",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/cjs/index.js",
   "types": "dist/cjs/index.d.ts",
   "scripts": {
